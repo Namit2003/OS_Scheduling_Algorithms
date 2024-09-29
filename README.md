@@ -1,5 +1,4 @@
 # CPU Scheduling Algorithms Simulator
-======================================================
 
 ## Features
 ------------
